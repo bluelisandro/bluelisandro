@@ -10,7 +10,7 @@ My name is Lisandro Nunez and I am currently a student at the University of Rhod
 
 ### Interests
 - Unix-based operating systems
-- Cybersecurity
+- Penetration Testing
 - Blockchain technology/Smart contracts
 - Powerlifting
 
