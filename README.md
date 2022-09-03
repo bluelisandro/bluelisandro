@@ -1,4 +1,4 @@
-### Hey! 👋
+### 👋 Hey!
 My name is Lisandro Nunez and I am currently a student at the University of Rhode Island majoring in computer science.
 
 🎯 I’m currently <b>focusing on my courses</b>, <b>applying to internships</b>, and <b>grinding leetcode</b>
