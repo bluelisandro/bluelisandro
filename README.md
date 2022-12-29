@@ -7,6 +7,8 @@ My name is Lisandro Nunez and I am currently a student at the University of Rhod
 
 ### Projects
 - [Sparse Matrices Implementation and Presentation in C++](https://github.com/fherchuk/CSC212-Final-Project)
+- [Rust Universal Machine](https://github.com/bluelisandro/Rust-Universal-Machine)
+- [JPEG but in Rust](https://github.com/bluelisandro/rpeg)
 
 ### Interests
 - Unix-based operating systems
