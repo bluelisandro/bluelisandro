@@ -11,10 +11,10 @@ My name is Lisandro Nunez and I am currently a student at the University of Rhod
 - [JPEG but in Rust](https://github.com/bluelisandro/rpeg)
 
 ### Interests
+- Full-Stack Software Development
 - Unix-based operating systems
-- Penetration Testing
 - Blockchain technology/Smart contracts
-- Powerlifting
+- Competitive Powerlifting
 
 ### Contact
 Feel free to contact me!  
