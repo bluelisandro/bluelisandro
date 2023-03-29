@@ -1,7 +1,7 @@
 ### 👋 Hey!
-My name is Lisandro Nunez and I am currently a student at the University of Rhode Island majoring in computer science.
+My name is Lisandro Nunez and I am an incoming software engineering intern at Fidelity Investments, and currently a student at the University of Rhode Island majoring in computer science.
 
-🎯 I’m currently <b>focusing on my courses</b>, <b>applying to internships</b>, and <b>grinding leetcode</b>
+🎯 I’m currently <b>focusing on my courses</b>, <b>powerlifting</b>, and <b>grinding leetcode</b>
 
 <!-- #### Visit My Website! https:://www.lisandro.dev/ -->
 
