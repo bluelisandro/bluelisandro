@@ -1,7 +1,7 @@
 ### 👋 Hey!
 My name is Lisandro Nunez and I am currently **seeking a full-time new grad software engineer position for Spring 2024**, and am currently a student at the University of Rhode Island majoring in computer science.
 
-🎯 I’m currently <b>seeking a full-time software engineer position</b>, <b>prepping for full time interviews</b>, <b>grinding leetcode</b>, and <b>training for a powerlifting competition</b>
+🎯 I’m currently <b>seeking a full-time software engineer position</b>, <b>prepping for full time interviews</b>, <b>grinding leetcode</b>, <b>a teaching assistant at URI</b>, and <b>training for a powerlifting competition</b>
 
 <!-- #### Visit My Website! https:://www.lisandro.dev/ -->
 
