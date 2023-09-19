@@ -1,7 +1,7 @@
 ### 👋 Hey!
-My name is Lisandro Nunez and I am a software engineer intern at Fidelity Investments, and currently a student at the University of Rhode Island majoring in computer science.
+My name is Lisandro Nunez and I am currently **seeking a full-time new grad software engineer position for Spring 2024**, and am currently a student at the University of Rhode Island majoring in computer science.
 
-🎯 I’m currently <b>developing at Fidelity</b>, <b>powerlifting</b>, and <b>prepping for full time interviews</b>
+🎯 I’m currently <b>seeking a full-time software engineer position</b>, <b>prepping for full time interviews</b>, <b>grinding leetcode</b>, and <b>training for a powerlifting competition</b>
 
 <!-- #### Visit My Website! https:://www.lisandro.dev/ -->
 
@@ -12,12 +12,12 @@ My name is Lisandro Nunez and I am a software engineer intern at Fidelity Invest
 
 ### Interests
 - Full-Stack Software Development
-- Unix-based operating systems
-- Blockchain technology/Smart contracts
+- Blockchain technology/Smart contracts/Crypto
 - Competitive Powerlifting
+- Motorcycles
 
 ### Contact
-Feel free to contact me!  
+Contact me!
 
 Email: lisandro_nunez@uri.edu 
 
